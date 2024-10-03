@@ -1,1 +1,1 @@
-### Streaming Data from Kafka to Apache Pinot
+# Streaming Data from Kafka to Apache Pinot
